@@ -1,14 +1,12 @@
-- link: //www.twitter.com/twitter_handle 
-  icon: icon-twitter
-- link: //plus.google.com/+googlePlusName 
-  icon: icon-google2
-- link: //github.com/GithubHandle 
-  icon: icon-github
-- link: //www.flickr.com/photos/FlickrUserID 
-  icon: icon-flickr3
-- link: /feed 
-  icon: icon-rss2
-- link: //vimeo.com/vimeo-id
-  icon: icon-vimeo2
-- link: //www.linkedin.com/
-  icon: icon-linkedin
+- link: //instagram.com/marcus_svehlak 
+  icon: icon-instagram
+# - link: //www.twitter.com/twitter_handle 
+#   icon: icon-twitter1
+# - link: //facebook.com/facebook_handle 
+#   icon: icon-facebook2
+# - link: //paypal.com/paypal_handle 
+#   icon: icon-paypal
+# - link: //x.com/x_handle
+#   icon: icon-x
+# - link: //feed 
+#   icon: icon-rss2
