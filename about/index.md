@@ -3,12 +3,10 @@ layout: full-width
 title: About
 ---
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+I’m currently completing my 200-hour yoga certification—this blog is where I share my journey. My goal is to educate, inspire, and reflect—for myself and others interested in yoga. This space is dedicated to understanding, practicing, and exploring yoga.
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+Here, you’ll find scripts, myths, and reflections, as well as insights from my certification process, job search, and experiences as I work toward building a local presence in yoga. Everything I share is meant to be practical, insightful, and rooted in real experience.
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts! 
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
+In the future, this blog may evolve, but for now, it serves as a record of my growth and a resource for anyone looking to deepen their connection to yoga. Thank you for being here.
 
 
