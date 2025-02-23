@@ -4,9 +4,7 @@ title: "My Favorite Yoga Pose"
 date:   2025-02-23
 categories: reflection
 ---
-{% newthought 'My favorite yoga pose, and why...' %}
-
-**Adho Mukha Svanasana** (Downward Dog), and a brief ramble on why...<!--more-->
+{% newthought 'My favorite yoga pose, and why...' %}<!--more-->
 
 Lately, **Adho Mukha Svanasana** (Downward Dog) has been my favorite...
 
