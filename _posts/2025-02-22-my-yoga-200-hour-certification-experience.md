@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Yoga 200 Hour Certification Experience (So Far...)"
+title: "My Yoga 200 Hour Certification Experience"
 date:   2025-02-22
 categories: experience
 ---
