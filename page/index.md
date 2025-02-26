@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: page
+title: Calendar
 ---
-{% newthought 'In this first iteration'%}
+{% newthought 'Coming soon...'%}
 

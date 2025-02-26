@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Yoga 200 Hour Certification Experience"
-date:   2025-02-22
+date:   2025-02-16
 categories: experience
 ---
 {% newthought 'What is it like going through a 200-hour yoga certification?' %}<!--more-->
