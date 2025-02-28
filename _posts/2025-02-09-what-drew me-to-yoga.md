@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Found Yoga"
-date:   2024-02-09
+date:   2025-02-09
 categories: reflection
 ---
 {% newthought 'What drew me to Yoga?' %}<!--more-->
