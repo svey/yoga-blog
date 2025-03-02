@@ -9,6 +9,8 @@ markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Los_Angeles
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+include:
+  - _downloads
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
 post:
   template: _post.txt
