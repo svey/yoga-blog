@@ -7,7 +7,7 @@ categories: experience
 {% newthought 'What is it like going through a 200-hour yoga certification?' %}<!--more-->
 
 
-The 200-hour yoga certification has been an **incredible experience**. {% marginnote '' 'Shout out to Dr. Milissa Bradley and my classmates!' %} I'm in a unique program at Diablo Valley Community College, where I've studied anatomy, philosophy, teaching methods, and techniques. The coursework is both physically and mentally demanding but also very rewarding.
+The 200-hour yoga certification has been an **incredible experience**. {% marginnote 'shout out to dr b and cohort' 'Shout out to Dr. Milissa Bradley and my classmates!' %} I'm in a unique program at Diablo Valley Community College, where I've studied anatomy, philosophy, teaching methods, and techniques. The coursework is both physically and mentally demanding but also very rewarding.
 
 {% newthought 'How has it changed my understanding of yoga?' %}
 
