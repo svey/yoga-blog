@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How I Found Yoga"
+title: "My Yoga"
 date:   2025-02-09
 categories: reflection
 ---
 {% newthought 'What drew me to Yoga?' %}<!--more-->
 
-What drew me to yoga was the need for an outlet during the pandemic...
+My yoga journey began looking for an outlet during the pandemic...
 
 My gym had closed, and I was stuck working a desk job from home. I had a personal calisthenics practice, but my body was riddled with aches and pains—my back, shoulders, and core all suffered. I had already been in physical therapy for a tight psoas and some other core dysfunction issue before the pandemic.
 
