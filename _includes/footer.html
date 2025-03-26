@@ -5,7 +5,7 @@
     {% for entry in site.data.social %}
       <li>
         {% if entry.link == "paypal" %}
-          <a href="https://www.paypal.com/donate/?business={{ site.donations.paypal.id }}&no_recurring=0&currency_code=USD">
+          <a target="_blank" href="https://www.paypal.com/donate/?business={{ site.donations.paypal.id }}&no_recurring=0&currency_code=USD">
             <span class="{{ entry.icon }}"></span>
           </a>
         {% else %}
