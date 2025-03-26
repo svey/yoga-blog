@@ -9,6 +9,10 @@ markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Los_Angeles
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+donations:
+  paypal:
+    text: Donate
+    id: JHP8TVQKRMRVS  # PayPal button ID
 include:
   - _downloads
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']

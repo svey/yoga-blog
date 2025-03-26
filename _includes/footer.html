@@ -4,12 +4,20 @@
     <li><a href="mailto:hate@spam.net"><span class="icon-mail3"></span></a></li>    
     {% for entry in site.data.social %}
       <li>
-        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+        {% if entry.link == "paypal" %}
+          <a href="https://www.paypal.com/donate/?business={{ site.donations.paypal.id }}&no_recurring=0&currency_code=USD">
+            <span class="{{ entry.icon }}"></span>
+          </a>
+        {% else %}
+          <a href="{{ entry.link }}">
+            <span class="{{ entry.icon }}"></span>
+          </a>
+        {% endif %}
       </li>
     {% endfor %}  
   </ul>
-<div class="credits">
-<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
-<span>Created with <a href="//github.com/clayh53/tufte-jekyll">Tufte</a> & <a href="//jekyllrb.com">Jekyll</a>.</span> 
-</div>  
+  <div class="credits">
+    <span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{ site.author | upcase }}</span></br> <br>
+    <span>Created with <a href="//github.com/clayh53/tufte-jekyll">Tufte</a> & <a href="//jekyllrb.com">Jekyll</a>.</span> 
+  </div>  
 </footer>

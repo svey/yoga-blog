@@ -4,8 +4,8 @@
 #   icon: icon-twitter1
 # - link: //facebook.com/facebook_handle 
 #   icon: icon-facebook2
-# - link: //paypal.com/paypal_handle 
-#   icon: icon-paypal
+- link: paypal
+  icon: icon-paypal
 # - link: //x.com/x_handle
 #   icon: icon-x
 # - link: //feed 

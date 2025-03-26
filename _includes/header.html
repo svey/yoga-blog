@@ -2,14 +2,15 @@
 <header>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/marcus-svehlak-yoga-logo.png" alt="CH"></a>
-	{% for node in site.pages %}
-		{% unless node.nav_exclude %}
-		    {% if page.url == node.url %}
-		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
-		    {% else %}
-		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
-		    {% endif %}
-	    {% endunless %}
-  	{% endfor %}
+	{% assign sorted_pages = site.pages | sort: "weight" %}
+	{% for node in sorted_pages %}
+	{% unless node.nav_exclude %}
+		{% if page.url == node.url %}
+		<a class="active" href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
+		{% else %}
+		<a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
+		{% endif %}
+	{% endunless %}
+	{% endfor %}
 	</nav>
 </header>

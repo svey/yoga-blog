@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Calendar
+weight: 3
 ---
 
 {% marginnote 'about the calendar' "The 2025 Yoga Asanas Calendar runs from March 2025 to February 2026. I didn't start working on it until January, and that's just how the timing worked out." %}
