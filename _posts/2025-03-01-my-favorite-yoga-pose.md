@@ -6,7 +6,7 @@ categories: calendar
 ---
 # Adho Muka Savasana — Downward Dog
 {% marginnote "doug-v-whipple-credit-april" "Credit to my friend Douglas Whipple for the watercolor illustrations for my calendar." %}
-{% maincolumn "assets/img/downward-dog-adho-muka-svanasana-water-color.png" "" %}
+{% maincolumn "assets/img/downward-facing-dog-adho-muka-savasana-watercolor.png" "" %}
 Adho Mukha Svanasana or Downward Dog reminds us of the guidance and support we receive on our path to liberation. Much like Bhairava's loyal dog, who led him in search of forgiveness, dogs protect Dharma
 {% marginnote "dharma" "**Dharma** is the right way of living." %}
 and help us navigate the ups and downs of our journey through karma.

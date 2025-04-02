@@ -15,3 +15,5 @@ I owe a **BIG** thank you to my good friend and neighbor, Doug Whipple, who was 
 {% maincolumn "assets/img/2025-yoga-calendar-cover.jpg" "" %}
 {% maincolumn "assets/img/2025-yoga-calendar-march.jpg" "" %}
 {% maincolumn "assets/img/2025-yoga-calendar-march-date-grid.jpg" "" %}
+{% maincolumn "assets/img/2025-yoga-calendar-april.jpg" "" %}
+{% maincolumn "assets/img/2025-yoga-calendar-april-date-grid.jpg" "" %}
