@@ -9,3 +9,4 @@ I'm a Registered Yoga Teacher (RYT) with Yoga Alliance.
 
 I hope [this site]({{ site.baseurl }}/) is a resource for anyone looking to deepen their connection to yoga. Thank you for being here.
 
+<b>Hiring?</b> I am currently looking for studio or gym teaching opportunities, checkout my [resume]({{ site.baseurl}}/resume) and connect with me.
