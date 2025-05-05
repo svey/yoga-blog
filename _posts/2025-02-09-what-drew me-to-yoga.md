@@ -4,7 +4,7 @@ title: "My Yoga"
 date:   2020-03-15
 categories: reflection
 ---
-My yoga journey began during the pandemic. I had a calisthenics routine, I practiced several times a week, but my mental, physical, and spiritual health were suffering. I was stressed, my mom had just finished chemotherapy and her battle with breast cancer, I broke-up with my girlfriend, and my friends were sheltering in place — my support system was gutted — and then I found yoga...
+I started practicing yoga during the pandemic. At the time, I had a regular calisthenics routine and worked out several times a week, but I still felt off — physically, mentally, and emotionally. My mom had recently completed chemotherapy for breast cancer, I had gone through a breakup, and most of my friends were isolating. It was a difficult time, and my usual ways of coping weren’t enough. That’s when I found yoga.
 
 
 
