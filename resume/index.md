@@ -9,7 +9,7 @@ nav_exclude: true
 [925-787-9988](tel:+19257879988) | [marcus.svehlak@gmail.com](mailto:marcus.svehlak@gmail.com) | Martinez, CA | [yoga.marcussvehlak.com](http://yoga.marcussvehlak.com)
 
 ## **Summary**  
-Yoga Alliance certified **RYT-200** instructor specializing in Hatha and Vinyasa yoga, dedicated to guiding students toward physical well-being and mindfulness. Certified through Yoga Alliance and trained through Diablo Valley College’s 200-hour Yoga Teacher Training program, with a strong foundation in yoga philosophy, anatomy, and teaching methodologies. Committed to creating safe, accessible, and engaging yoga experiences for practitioners of all levels.
+Yoga Alliance certified **RYT-200** instructor specializing in Hatha and Vinyasa yoga, dedicated to guiding students toward physical well-being and mindfulness. Certified through Yoga Alliance and trained through Diablo Valley College's 200-hour Yoga Teacher Training program, with a strong foundation in yoga philosophy, anatomy, and teaching methodologies. Committed to creating safe, accessible, and engaging yoga experiences for practitioners of all levels.
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 2;"> <!-- 3/4 of the page -->
